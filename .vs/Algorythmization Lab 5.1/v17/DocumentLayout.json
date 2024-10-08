@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4FACAD3-42F9-47A4-9981-92C0734F8205}|Algorythmization Lab 5.1\\Algorythmization Lab 5.1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 5.1\\Algorythmization Lab 5.1\\Lab05_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A4FACAD3-42F9-47A4-9981-92C0734F8205}|Algorythmization Lab 5.1\\Algorythmization Lab 5.1.vcxproj|solutionrelative:Algorythmization Lab 5.1\\Lab05_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C751D0F-5BCA-4F9F-A500-A5C802003A93}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\User\\source\\repos\\Algorythmization Lab 5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C751D0F-5BCA-4F9F-A500-A5C802003A93}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T13:16:57.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Algorythmization Lab 5.1\\Lab05_1.cpp",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Algorythmization Lab 5.1\\Algorythmization Lab 5.1\\Lab05_1.cpp",
               "RelativeToolTip": "Algorythmization Lab 5.1\\Lab05_1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-07T12:30:51.629Z",
               "EditorCaption": ""
